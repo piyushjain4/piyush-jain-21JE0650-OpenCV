@@ -5,12 +5,12 @@
 # Aruco placement
 
 The purpose of the project is to autonomously place aruco markers on square boxes .
-The code is written such that there is no need to change the orientation of the boxes to exactly overlapp on the boxes. 
+The code is written such that there is no need to change the orientation of the boxes to exactly overlapp arucomarkers on the boxes. 
 
 
 ## Tech Stack
 
-Some of the popular libraries are used for the project-
+Some of the popular libraries used for the project are-
 
 -->Numpy
 
