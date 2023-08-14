@@ -1,7 +1,17 @@
 # piyush-jain-21JE0650-OpenCV
 ![Logo](https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png)
 
+## Description
 
+This project utilizes OpenCV to detect square shapes in images  and overlays ArUco markers on top of the detected squares. ArUco markers are a type of fiducial marker that are commonly used in computer vision applications for object tracking and localization.
+
+The main goal of this project is to showcase how to combine shape detection with marker placement, providing a visual representation of the detected squares.
+
+## Features
+
+- Detects square shapes in images and .
+- Places ArUco markers on top of detected squares for visualization.
+  
 # Aruco placement
 
 The purpose of the project is to autonomously place aruco markers on square boxes .
