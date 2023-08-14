@@ -9,13 +9,16 @@ The main goal of this project is to showcase how to combine shape detection with
 
 ## Features
 
-- Detects square shapes in images and .
+- Detects square shapes in images 
 - Places ArUco markers on top of detected squares for visualization.
   
 # Aruco placement
 
 The purpose of the project is to autonomously place aruco markers on square boxes .
-The code is written such that there is no need to change the orientation of the boxes to exactly overlapp arucomarkers on the boxes. 
+The code is written such that there is no need to change the orientation of the boxes to exactly overlapp arucomarkers on the boxes.
+
+# Final Image
+<img src="https://github.com/piyushjain4/piyush-jain-21JE0650-OpenCV/blob/main/final.jpg" alt="RLE" width="400" />
 
 
 ## Tech Stack
